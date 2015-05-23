@@ -1,6 +1,6 @@
 # README for the Getting-and-Cleaning-Data cource project (coursera)
 ## Overview
-This README provides how the script(run_analysis.R) works.
+This README provides how the script(run_analysis.R) works. Note that this script won't work if the Samsung data is not in the working directory.
 
 ## Datasource
 Original data was downloaded from [Human Activity Recognition database ](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
