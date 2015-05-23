@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+# README for the Getting-and-Cleaning-Data cource project (coursera)
 ## Overview
 This README provides how the script(run_analysis.R) works.
 
