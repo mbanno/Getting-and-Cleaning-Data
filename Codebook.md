@@ -7,7 +7,7 @@ This codebook provides description of the **tidy** data. This tidy data was gene
 [Human Activity Recognition database ](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
-### Brief description of the variable
+## Brief description of the variable
 *Features(third column and after) are normalized and bounded within [-1,1].
 
 | index|column.name               |description                                                                                    |
